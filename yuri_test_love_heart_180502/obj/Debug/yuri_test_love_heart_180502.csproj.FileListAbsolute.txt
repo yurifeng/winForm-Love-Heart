@@ -1,0 +1,8 @@
+c:\users\npn\documents\visual studio 2015\Projects\yuri_test_love_heart_180502\yuri_test_love_heart_180502\bin\Debug\yuri_test_love_heart_180502.exe.config
+c:\users\npn\documents\visual studio 2015\Projects\yuri_test_love_heart_180502\yuri_test_love_heart_180502\bin\Debug\yuri_test_love_heart_180502.exe
+c:\users\npn\documents\visual studio 2015\Projects\yuri_test_love_heart_180502\yuri_test_love_heart_180502\bin\Debug\yuri_test_love_heart_180502.pdb
+c:\users\npn\documents\visual studio 2015\Projects\yuri_test_love_heart_180502\yuri_test_love_heart_180502\obj\Debug\yuri_test_love_heart_180502.Form1.resources
+c:\users\npn\documents\visual studio 2015\Projects\yuri_test_love_heart_180502\yuri_test_love_heart_180502\obj\Debug\yuri_test_love_heart_180502.Properties.Resources.resources
+c:\users\npn\documents\visual studio 2015\Projects\yuri_test_love_heart_180502\yuri_test_love_heart_180502\obj\Debug\yuri_test_love_heart_180502.csproj.GenerateResource.Cache
+c:\users\npn\documents\visual studio 2015\Projects\yuri_test_love_heart_180502\yuri_test_love_heart_180502\obj\Debug\yuri_test_love_heart_180502.exe
+c:\users\npn\documents\visual studio 2015\Projects\yuri_test_love_heart_180502\yuri_test_love_heart_180502\obj\Debug\yuri_test_love_heart_180502.pdb
